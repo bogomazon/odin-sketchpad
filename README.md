@@ -1,4 +1,5 @@
 # odin-sketchpad
 theodingproject sketchpad app
 
-08.11.2015
+Demo:
+http://htmlpreview.github.io/?https://github.com/bogomazon/odin-sketchpad/blob/master/index.html
